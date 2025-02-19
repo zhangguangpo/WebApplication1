@@ -5,7 +5,7 @@
 
         public void inha() {
             var sss = 233;
-            var  sss2="23333"
+            var sss2 = "23333";
         }
     }
 }
