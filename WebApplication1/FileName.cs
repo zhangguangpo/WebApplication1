@@ -2,5 +2,8 @@
 {
     public class FileName
     {
+
+        public void DIN() { 
+        }
     }
 }
